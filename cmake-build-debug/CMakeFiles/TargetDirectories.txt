@@ -1,0 +1,3 @@
+/home/student/Documents/Games/Mario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Documents/Games/Mario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/Documents/Games/Mario/cmake-build-debug/CMakeFiles/Mario.dir
